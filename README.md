@@ -121,6 +121,12 @@ Also, I treat bugs as puzzle pieces waiting to be solved 🧩✨
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+## 🔮 P.S. 
+This portfolio wasn’t just coded — it was **dreamed, designed, and delivered** with the magic of [Loveable AI (Qi)](https://lovable.dev/) ✨  
+Because the best developers don’t just write code — they **craft experiences**, tell stories, and bring ideas to life.  
+🚀 [See it in action here](https://pranathi-portfolio.lovable.app)
+
+---
 
 ## ✍️ Random Dev Quote
 
